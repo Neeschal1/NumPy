@@ -7,7 +7,7 @@ sum = arr_1 + arr_2
 
 print(sum)
 
-                                         
+
 '''
   NOTES:
 
