@@ -1,0 +1,2 @@
+## NumPy Learning Journey  
+This repository documents my step-by-step learning of NumPy, covering its essential concepts, operations, and practical applications. It includes code snippets, examples, and small projects that showcase how NumPy can be used for array manipulation, mathematical computations, and data analysis tasks. I have not completed NumPy yet — I’m learning it at my own pace with patience and consistency.  
